@@ -21,12 +21,6 @@ function Home() {
     <section id='home'>
       <div>
         <main className="px-3">
-          <img src="../public/Home2.png" alt="Image not generated" className="Home" style={{
-            height: '400px',
-            width: '80%',
-            borderRadius: '50px',
-            border: '10px solid #FFEFDA',
-          }} />
         </main>
       </div>
     </section>
